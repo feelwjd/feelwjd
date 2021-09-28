@@ -16,7 +16,7 @@
 ### **Back-End**
 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring?style=flat-square&logo=Spring&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-%23092E20?style=flat-square&logo=Spring&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23092E20?style=flat-square&logo=Node.js&logoColor=white)  
  
 ### **ETC.**
@@ -26,4 +26,4 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-%23ff4785?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23ff4785?style=flat-square&logo=Keras&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat-square&logo=Rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-#000000?style=flat-square&logo=Rust&logoColor=white)
