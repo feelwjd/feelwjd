@@ -22,8 +22,8 @@
 ### **ETC.**
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-%23C21325?style=flat-square&logo=Jest&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-%23ff4785?style=flat-square&logo=Storybook&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23ff4785?style=flat-square&logo=Storybook&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-%23C21325?style=flat-square&logo=Java&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-%23ff4785?style=flat-square&logo=Tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23ff4785?style=flat-square&logo=Keras&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat-square&logo=Rust&logoColor=white)
