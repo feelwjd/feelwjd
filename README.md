@@ -16,7 +16,7 @@
 ### **Back-End**
 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-%23092E20?style=flat-square&logo=Spring&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring?style=flat-square&logo=Spring&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23092E20?style=flat-square&logo=Node.js&logoColor=white)  
  
 ### **ETC.**
