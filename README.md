@@ -1,9 +1,29 @@
-### Hi there 👋
 ### 민정필
-- 🔭 I’m currently working on Gachon University.
-- 🌱 I’m currently learning Deeplearning <Kerras> and Back-end <Django>
-- 👯 I’m looking to collaborate on Front-end Web Disigner
-### ✨My skill✨
-- ⚡Django
-- ⚡Python
-- ⚡Spring
+- 🔭 Working on Gachon University.
+- 🌱 Learning Deeplearning <Keras> and Back-end <Django>
+- 👯 I’m looking to collaborate on Front-end Disigner
+
+  <h2 align="center">NOW Developments contents</h2>
+
+<p align="center">MyPT, MyPT-Server, MyPT-AI</p>
+
+<p align="center">
+	<a href="mailto:feelwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+## ✨SKILL✨
+ 
+### **Back-End**
+
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-%23092E20?style=flat-square&logo=Django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23092E20?style=flat-square&logo=Django&logoColor=white)  
+ 
+### **ETC.**
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-%23C21325?style=flat-square&logo=Jest&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-%23ff4785?style=flat-square&logo=Storybook&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23ff4785?style=flat-square&logo=Storybook&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
