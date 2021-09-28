@@ -15,9 +15,9 @@
  
 ### **Back-End**
 
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
  
 ### **ETC.**
 
