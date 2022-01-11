@@ -5,7 +5,7 @@
 
   <h2 align="center">NOW Developments contents</h2>
 
-	<p align="center"><a herf ="https://github.com/feelwjd/LOL-bulid">LOL-build</a> <a herf="https://github.com/feelwjd/neptune-spring-jna">neptune-spring-jna</a></p>
+	<p align="center"><a herf ="https://github.com/feelwjd/LOL-bulid"><p>LOL-build</p></a>, <a herf="https://github.com/feelwjd/neptune-spring-jna"><p>neptune-spring-jna</p></a></p>
 
 <p align="center">
 	<a href="mailto:feelwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
