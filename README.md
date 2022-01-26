@@ -1,7 +1,5 @@
 ### 민정필
-- 🔭 Working on Gachon University.
-- 🌱 Learning Deeplearning <Keras> and Back-end <Django>
-- 👯 I’m looking to collaborate on Front-end Disigner
+
 
   <h2 align="center">NOW Developments contents</h2>
 
