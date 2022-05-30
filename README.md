@@ -1,14 +1,5 @@
 ### 민정필
 
-
-  <h2 align="center">NOW Developments contents</h2>
-
-<p align="center">neptune-spring-jna, LOL-build</p>
-
-<p align="center">
-	<a href="mailto:feelwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
 ## ✨SKILL✨
  
 ### **Back-End**
@@ -25,6 +16,15 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+
+
+  <h2 align="center">NOW Developments contents</h2>
+
+<p align="center">neptune-spring-jna, LOL-build</p>
+
+<p align="center">
+	<a href="mailto:feelwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelwjd&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
