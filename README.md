@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Java&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
