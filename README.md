@@ -18,8 +18,9 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
+### **CONTACT**
 
-<p align="center">
+<p>
 	<a href="mailto:feelwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
